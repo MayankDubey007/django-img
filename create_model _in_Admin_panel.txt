@@ -1,0 +1,42 @@
+new plan
+1->resume uploader
+2->crud
+3->portfolio
+4->blog
+5->email verficartion
+a)STATIC_URL = '/static/'
+b)remove-> settings.py ->15 from regex import E
+
+left
+4->curd
+6->email verficartion
+
+resumeproject
+add pages
+2->Download
+3->Project
+
+achivements
+A -> certificates
+B -> Project
+C -> Download
+D -> Intrest level
+
+
+A ->certificates
+1 django(great_learning)
+2 pyhton (hacker rank)
+3 git hub
+4 react js
+5 html css  bootrap
+6 data struture
+7 c
+
+B -> Project
+1->resume uploader
+2->crud
+3->portfolio
+4->blog
+5->email verficartion
+
+C -> Download Link
